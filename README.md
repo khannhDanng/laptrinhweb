@@ -1,6 +1,6 @@
 <h1>HUỲNH PHƯỚC TRUNG _ 2311560253 </h1>
 <p> 
-Tài và cài đặt composer trên máy
+Tải và cài đặt composer trên máy tính
 
 Tải và cài đặt XAMPP
     
