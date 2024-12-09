@@ -1,4 +1,4 @@
-<p> Tài và cài đật composer trên máy<br>
+<p> Tài và cài đặt composer trên máy<br>
     Tải và cài đặt XAMPP
 Tải tệp gzip "LapTrinhWeb" từ github repo này, giải nén và copy toàn bộ thư mục
 
