@@ -1,10 +1,10 @@
 <h1>ĐỒ ÁN LẬP TRÌNH WEB _ HUỲNH PHƯỚC TRUNG _ 2311560253 </h1>
 <p> 
+Link download XAMPP và composer: https://drive.google.com/drive/folders/16zcsJC7hysJTjSzHyNfyNtSKPrIiHhfF?usp=sharing
+    
 Tải và cài đặt composer trên máy tính
 
-Tải và cài đặt XAMPP
-
-Link download XAMPP và composer: https://drive.google.com/drive/folders/16zcsJC7hysJTjSzHyNfyNtSKPrIiHhfF?usp=sharing
+Tải và cài đặt XAMPP, sau khi cài xong cần start 2 module là Apache và MySQL 
 
 Tải tệp gzip "LapTrinhWeb" từ github repo này, giải nén và copy toàn bộ thư mục
 
