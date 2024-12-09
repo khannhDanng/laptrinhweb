@@ -16,7 +16,7 @@ Tạo database "duanbooking"
 
 Import duanbooking.sql file vào database vừa tạo
 
-Dùng Visual Studio Code mở toàn bộ thư mục -> Mở 1 Terminal trong VSCode và gõ lệnh 'php artisan serve' để khởi chạy website và serve trong lavarel
+Dùng Visual Studio Code mở toàn bộ thư mục -> Mở 1 Terminal trong VSCode và gõ lệnh 'php artisan serve' trong cmd của VSCode để khởi chạy website và serve trong Lavarel
 
 Paste URL này vào trình duyệt http://127.0.0.1:8000/admin
 
