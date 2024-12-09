@@ -3,7 +3,9 @@
 Tải và cài đặt composer trên máy tính
 
 Tải và cài đặt XAMPP
-    
+
+Link download XAMPP và composer: https://drive.google.com/drive/folders/16zcsJC7hysJTjSzHyNfyNtSKPrIiHhfF?usp=sharing
+
 Tải tệp gzip "LapTrinhWeb" từ github repo này, giải nén và copy toàn bộ thư mục
 
 Paste vào thư mục 'htdocs' trong thư mục gốc cài xampp. (Windows: C:\Program Files\xampp\htdocs hoặc MacOS: /Applications/XAMPP)
