@@ -1,6 +1,8 @@
 <h1>HUỲNH PHƯỚC TRUNG _ 2311560253 </h1>
-<p> Tài và cài đặt composer trên máy<br>
+<p> Tài và cài đặt composer trên máy
+    <br>
     Tải và cài đặt XAMPP
+    
 Tải tệp gzip "LapTrinhWeb" từ github repo này, giải nén và copy toàn bộ thư mục
 
 Paste vào thư mục 'htdocs' trong thư mục gốc cài xampp. (Windows: C:\Program Files\xampp\htdocs hoặc MacOS: /Applications/XAMPP)
@@ -10,6 +12,8 @@ Mở PHPMyAdmin trong trình duyệt http://localhost/phpmyadmin
 Tạo database "duanbooking"
 
 Import duanbooking.sql file vào database vừa tạo
+
+Dùng Visual Studio Code mở toàn bộ thư mục -> Mở 1 Terminal trong VSCode và gõ lệnh 'php artisan serve' để khởi chạy website và serve trong lavarel
 
 Paste URL này vào trình duyệt http://127.0.0.1:8000/admin
 
