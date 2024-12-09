@@ -1,3 +1,25 @@
+<p> Cài thư composer trên máy thông qua CMD
+    Tải và cài đặt XAMPP
+
+Tải tệp gzip "LapTrinhWeb" từ github repo này, giải nén và copy toàn bộ thư mục
+
+Paste vào thư mục 'htdocs' trong thư mục gốc cài xampp. (Windows: C:\Program Files\xampp\htdocs hoặc MacOS: /Applications/XAMPP)
+
+Mở PHPMyAdmin trong trình duyệt http://localhost/phpmyadmin
+
+Tạo database "duanbooking"
+
+Import duanbooking.sql file vào database vừa tạo
+
+Paste URL này vào trình duyệt http://localhost/vietchill/index.php
+
+Để truy cập trang quản lý, sử dụng link tài khoản sau:
+
+http://localhost/vietchill/admin/index.php
+
+username:  
+
+password:   </p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
