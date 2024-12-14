@@ -5,6 +5,5 @@
 <link rel="stylesheet" href="{{asset('backend/asset/css/style.css')}}">
 <LINK REL="SHORTCUT ICON" href="{{asset('backend/asset/images/logo_booking(100x100).svg')}}">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js">
-
 </script>
 <title>Trung Huỳnh Booking-Admin</title>
