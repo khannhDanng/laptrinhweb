@@ -19,7 +19,6 @@ class OrderController extends Controller
         $order_detail = json_decode($request -> order_detail,true);
         $product_id = array_keys($order_detail);
         $products = product::whereIn('id',$product_id) -> get();
-        //dd($producs);
         return  view('admin.order.detail',[
             'products' => $products,
             'order_detail' => $order_detail
