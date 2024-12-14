@@ -5,7 +5,6 @@ use App\Http\Controllers\FrontendController;
 use App\Http\Controllers\Admin\OrderController;
 use App\Models\product;
 use Illuminate\Support\Facades\Route;
-
 /*
 |--------------------------------------------------------------------------
 | Web Routes
