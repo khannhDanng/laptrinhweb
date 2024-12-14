@@ -11,4 +11,5 @@ for (let index = 0; index < menuLi.length; index++) {
         menuLi[index].parentNode.querySelector('ul').setAttribute("style","height:"+submenuHeight+"px")
         //console.log(submenuHeight)
     })
+    
 }
