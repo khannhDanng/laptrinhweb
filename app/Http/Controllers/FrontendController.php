@@ -13,7 +13,6 @@ use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Notification;
 use Illuminate\Support\Str;
 use Illuminate\Support\Facades\Session;
-//test
 
 
 class FrontendController extends Controller
