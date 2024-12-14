@@ -3,4 +3,4 @@
 <link href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css" rel="stylesheet" />
 <link rel="stylesheet" href="{{asset('frontend/asset/css/style.css')}}">
 <LINK REL="SHORTCUT ICON" HREF="{{asset('frontend/asset/images/logo/logo_booking(100x100).svg')}}">
-<title>Trung Huỳnh Booking</title>
+<title>KHANH DANG Booking</title>
