@@ -28,7 +28,7 @@ class UploadController extends Controller
         return response() -> json([
          'success' => true,
          'paths' => $url
- 
+
         ]);
     }
 }
