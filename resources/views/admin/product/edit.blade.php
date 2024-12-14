@@ -48,3 +48,4 @@
 @section('footer')
 <script src="{{asset('backend/asset/js/product_ajax.js')}}"></script>
 @endsection
+
