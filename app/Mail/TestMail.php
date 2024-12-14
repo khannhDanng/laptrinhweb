@@ -12,7 +12,6 @@ use Illuminate\Queue\SerializesModels;
 //test
 use Illuminate\Mail\Mailables\Address;
 //use Illuminate\Mail\Mailables\Envelope;
-
 //test
 
 class TestMail extends Mailable
