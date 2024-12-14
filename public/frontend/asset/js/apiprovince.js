@@ -4,6 +4,7 @@ var callAPI = (api) => {
         .then((response) => {
             renderData(response.data, "city");
         });
+    
 }
 callAPI('https://provinces.open-api.vn/api/?depth=1');
 var callApiDistrict = (api) => {
