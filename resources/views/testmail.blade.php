@@ -1,1 +1,1 @@
-<h1>Xác nhận đơn hàng Trung Huỳnh Booking</h1>
+<h1>Xác nhận đơn hàng </h1>
