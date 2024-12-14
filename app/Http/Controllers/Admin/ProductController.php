@@ -30,7 +30,6 @@ class ProductController extends Controller
         $product -> images = $product_images;
         $product ->save();
         return redirect() -> back();
-
     }
     public function list_product(){
         $product = DB::table('products')->paginate(15);
