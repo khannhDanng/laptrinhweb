@@ -1,7 +1,7 @@
 const sliderItem = document.querySelectorAll('.slider-item')
 for (let index = 0; index < sliderItem.length; index++) {
     sliderItem[index].style.left = index * 100 + "%"
-    
+
 }
 
 const sliderItems = document.querySelector('.slider-items')
