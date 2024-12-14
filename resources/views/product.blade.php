@@ -74,7 +74,6 @@
         @csrf
     </form>
 
-
     
 </section>
 
